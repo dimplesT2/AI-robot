@@ -5,7 +5,7 @@ import openai  # 导入OpenAI API库
 import openai
 import time
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 
 
